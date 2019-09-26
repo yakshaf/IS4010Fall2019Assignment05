@@ -1,8 +1,18 @@
-/*
- * IS4010 Fall 2019
+/* 
+ * Yuru Gong
+ * gongyr@mail.uc.edu
  * Assignment 05
- * Bill Nicholson
- * nicholdw@ucmail.uc.edu
+ * Due Date: 10/03/2019
+ * Description: Write a method called translateScore that takes a football score and returns a string describing that score.
+
+2 should return "safety"
+3 should return "field goal"
+6 should return "touchdown"
+7 "Touchdown and extra point"
+8 "Touchdown and 2-point conversion"
+
+ * Citations:
+ * Course: IS4010
  */
 package footballFun;
 
